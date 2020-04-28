@@ -1,9 +1,21 @@
 # Film Industry Analysis & Insights
 
-## Scenario: Microsoft sees all the big companies creating original video content, and they want to get in on the fun. They have decided to create a new movie studio, but the problem is they don’t know anything about creating movies. They have hired you to help them better understand the movie industry. Your team is charged with doing data analysis and creating a presentation that explores what type of films are currently doing the best at the box office. You must then translate those findings into actionable insights that the CEO can use when deciding what type of films they should be creating.
+## Description 
+This project gives a better understanding of the movie industry. A presentation that explores what type of films are currently doing the best at the box office is also included here. Findings from both the project and presentation are translated into actionable insights anyone can use when deciding what type of films to create.
 
-## This repository contains all databases, Table of Content, and mutiple Jupyter Notebooks entailing all code for the analysis.
 
 ## Where to Start First:
 
-### 1. Access the [Table of Content](./Table of Content.ipynb) for a break down of the analysis process and navigation.
+### 1. Access the Table of Content (Table of Content.ipynb) for a break down of the analysis process and navigation.
+### 2. Follow along with the coding narrative and comments.
+### 3. Preview the uploaded presentations (Film Industry Analysis & Insights.pdf)
+
+## Support
+If you need any help, please email me at johnhdz1023@gmail.com.
+
+## Acknowledgments
+I want to take thank my girlfriend, Haley, [Flatiron School](https://flatironschool.com/), my cohort, and [Eli](http://linkedin.com/in/jacob-eli-thomas-4377037) for input on this project.
+
+
+## Project status
+Completed.
