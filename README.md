@@ -8,7 +8,7 @@ This project gives a better understanding of the movie industry. A presentation 
 
 ### 1. Access the [Table of Content](https://github.com/JohnPaulHernandezAlcala/Movie_Analysis/blob/master/Table%20of%20Content.ipynb) for navigation and a breakdown of the analysis process.
 ### 2. Follow along with the coding narrative and comments.
-### 3. Preview the uploaded presentations [Film Industry Analysis & Insights.pdf]
+### 3. Preview the uploaded presentation, [Film Industry Analysis & Insights](https://github.com/JohnPaulHernandezAlcala/Movie_Analysis/blob/master/Presentation-Film%20Industry%20Analysis%20%26%20Insights.pdf).
 
 ## Conclusion
 ### Maturity Rating Finding
