@@ -24,11 +24,21 @@ All seasons released the same number of movies; Thus, R.O.I. distribution could 
 ### Maturity Rating Finding 1: 'PG-13' or 'R' 
 Based on the amount of data 'PG-13' and 'R' had and the frequency that 'PG-13' and 'R' movies had R.O.I.'s values around their respective median value suggest predictability; Thus, it is recommendable to design a movie with 'PG-13' or 'R' rating.
 
+![Maturity Rating Plots](https://github.com/JohnPaulHernandezAlcala/Movie_Analysis/blob/master/MaturityRatings.png?raw=true)
+
 ### Genre Finding 2:  Horror or action/Adventure 
 Considering the first finding, it is recommendable to design a movie with Horror, or action/Adventure features in it because these genres had more than the median R.O.I. movie value of 95.3%.
 
+![Genre Plots](https://github.com/JohnPaulHernandezAlcala/Movie_Analysis/blob/master/Genres.png?raw=true)
+
 ### Release Date Finding 3: Wed or Fri
 Although Summer and Winter had high median values, the frequency of movies that achieved around their respective median value is less certain than with the movies from Spring and Fall. With this considered, the months were next observed, and it was found that Nov and Dec had the most reliable R.O.I. distributions because they were close to their respective median values. The best days to release a movie are on Wednesday or Friday because of high median values coupled with reliable R.O.I distributions.
+
+![Season Plots](https://github.com/JohnPaulHernandezAlcala/Movie_Analysis/blob/master/ReleaseSeasons.png?raw=true)
+
+![Month Plots](https://github.com/JohnPaulHernandezAlcala/Movie_Analysis/blob/master/ReleaseMonths.png?raw=true)
+
+![Day Plots](https://github.com/JohnPaulHernandezAlcala/Movie_Analysis/blob/master/ReleaseDay.png?raw=true)
 
 ## Support
 If you need any help, please email me at johnhdz1023@gmail.com.
