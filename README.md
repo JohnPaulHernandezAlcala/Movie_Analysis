@@ -6,7 +6,7 @@ This project gives a better understanding of the movie industry. A presentation 
 
 ## Where to Start First:
 
-### 1. Access the [Table of Content](https://github.com/JohnPaulHernandezAlcala/Movie_Analysis/blob/master/Table%20of%20Content.ipynb) for navigation and a breakdown of the analysis process.
+### 1. Access the [Table of Content](https://nbviewer.jupyter.org/github/JohnPaulHernandezAlcala/Movie_Analysis/blob/master/Table%20of%20Content.ipynb) for navigation and a breakdown of the analysis process.
 NOTE: For full navigation abilities, open up Table of Content in Jupyter Notebook.
 ### 2. Follow along with the coding narrative and comments.
 ### 3. Preview the uploaded presentation, [Film Industry Analysis & Insights](https://github.com/JohnPaulHernandezAlcala/Movie_Analysis/blob/master/Presentation-Film%20Industry%20Analysis%20%26%20Insights.pdf).
